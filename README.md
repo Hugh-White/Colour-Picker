@@ -39,7 +39,7 @@ I built this app to practice binding visuals and control properties with dynamic
         <img src="https://i.imgur.com/RWpN1Pc.jpeg" alt="Max Red" width="100%">
       </td>
       <td align="center" valign="top" width="25%">
-        <b>Random Colour & Hex Copied</b><br>
+        <b>Random Colour Copied</b><br>
         <img src="https://i.imgur.com/3gIqs0n.jpeg" alt="Random Colour and Hex Value Copied to Clipboard" width="100%">
       </td>
     </tr>
